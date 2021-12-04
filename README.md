@@ -10,6 +10,7 @@
 
 ## Index :books:
 
+* [Augmented Reality :camera:](#Augmented-Reality-camera)
 * [Backend :gear:](#backend-gear)
 * [Big Data :bar_chart:](#big-data-bar_chart)
 * [Blockchain :link:](#blockchain-link)
@@ -20,6 +21,7 @@
 * [DevOps :loop:](#devops-loop)
 * [Digital Marketing :camera:](#digital-marketing-camera)
 * [Frontend :desktop_computer:](#frontend-desktop_computer)
+* [Game Development :video_game:](#game-development-video_game)
 * [IoT :globe_with_meridians:](#iot-globe_with_meridians)
 * [Machine Learning :orange_book:](#machine-learning-orange_book)
 * [OOPS :keyboard:](#OOPS-keyboard)
@@ -27,7 +29,23 @@
 * [Security :white_check_mark:](#security-white_check_mark)
 * [Version Control :arrows_counterclockwise:](#version-control-arrows_counterclockwise)
 * [Web Automation :robot:](#web-automation-robot)
+* [Web Performance Optimisation :desktop_computer:](#web-performance-optimisation-desktop_computer)
 
+  
+## Augmented Reality :camera:
+| Domain   | Link                          |
+| -------- | ----------------------------- |
+| Amazon Sumerian | [Link](./AugmentedReality/AmazonSumerian.md)   |
+| Vuforia         | [Link](./AugmentedReality/Vuforia.md)          |
+| ARKit           | [Link](./AugmentedReality/ARkit.md)            |
+| LensStudio      | [Link](./AugmentedReality/LensStudio.md)       |
+| SparkAR         | [Link](./AugmentedReality/SparkAR.md)          |
+| ARCore          | [Link](./AugmentedReality/ARCore.md)           |
+| ARFoundation    | [Link](./AugmentedReality/ARFoundation.md)     |
+| Blender         | [Link](./AugmentedReality/Blender.md)          |
+
+
+**[⬆ Back to Index](#index-books)**
 
 ## Backend :gear:
 
@@ -132,6 +150,15 @@
 
 **[⬆ Back to Index](#index-books)**
 
+## Game Development :video_game:
+| Domain         | Link                                 |
+| -------------- | ------------------------------------ |
+| Pygame          | [Link](./GameDevelopment/Pygame.md)   |
+| Unity          | [Link](./GameDevelopment/Unity.md)   |
+| Unreal         | [Link](./GameDevelopment/Unreal.md)  |
+
+**[⬆ Back to Index](#index-books)**
+
 ## IoT :globe_with_meridians:
 
 | Domain | Link                 |
@@ -146,6 +173,9 @@
 | ------ | -------------------------------- |
 | ML     | [Link](./ML/MACHINE_LEARNING.md) |
 | DL     | [Link](./ML/DEEP_LEARNING.md)    |
+| Research (ML+DL) | [Link](./ML/DOCUMENTS_AND_PAPERS.md) |
+| OpenCV     | [Link](./ML/OpenCV.md)    |
+| PySpark     | [Link](./ML/Pyspark.md)    |
 
 **[⬆ Back to Index](#index-books)**
 
@@ -162,6 +192,7 @@
 | Domain            | Link                                            |
 | ----------------- | ----------------------------------------------- |
 | Operating Systems | [Link](./OperatingSystems/OPERATING-SYSTEMS.md) |
+| Shell Scripting | [Link](./OperatingSystems/Shell_Scripting.md) |
 
 **[⬆ Back to Index](#index-books)**
 
@@ -169,7 +200,9 @@
 
 | Domain   | Link                           |
 | -------- | ------------------------------ |
+| Mobile App Security | [Link](./Security/MOBILE_APP_SECURITY.md) |
 | Security | [Link](./Security/SECURITY.md) |
+| Web Security | [Link](./Security/WEBSITE_SECURITY.md) |
 
 **[⬆ Back to Index](#index-books)**
 
@@ -190,7 +223,14 @@
 
 **[⬆ Back to Index](#index-books)**
 
+## Web Performance Optimisation :desktop_computer:
+
+| Domain     | Link                           |
+| ---------- | ------------------------------ |
+| Web Performance Optimisation | [Link](./Web-Performance/WEB-PERFORMANCE-OPTIMISATION.md)    |
+
+**[⬆ Back to Index](#index-books)**
+
 
 <hr>
-
 Please give a :star: to show your support if you like this repository :wink:
